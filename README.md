@@ -1,4 +1,4 @@
-# DMARC Subdomains
+# Ripey
 
 ## Overview
 Ripey is a Python script designed to search and retrieve information from the RIPE database. This tool leverages the Playwright library for web automation to fetch this data from the `apps.db.ripe.net` website, and provides options to extract specific data such as email addresses, subnets, or save the results to a CSV file.
