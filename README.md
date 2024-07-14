@@ -91,7 +91,7 @@ This script is intended for educational and ethical use only. Ensure you have pe
 
 ## Contributing
 
-Contributions to the DMARC Domain Fetcher are welcome. Please open an issue or pull request to suggest improvements or add new features.
+Contributions to Ripey are welcome. Please open an issue or pull request to suggest improvements or add new features.
 
 ## License
 
