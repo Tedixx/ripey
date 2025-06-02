@@ -11,7 +11,7 @@ async def fetch_all_results(inputvalue: str):
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
-        await page.goto('https://www.db.ripe.net/db-web-ui/fulltextsearch')
+        await page.goto('https://apps.db.ripe.net/db-web-ui/fulltextsearch')
 
         # Enter the search term and submit the form
         await page.fill('#fullTextSearchInput', inputvalue)
